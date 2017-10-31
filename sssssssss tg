@@ -1,0 +1,33 @@
+[33mcommit ebf1a8860833c8ee5ee4858379521f570d7a0695[m
+Merge: bcecf6d 8942e41
+Author: Renan Sies <renansies@gmail.com>
+Date:   Tue Oct 31 13:49:42 2017 -0200
+
+    Merge tag '0.0.1' into develop
+    
+    cricao para a versÃo 0.0.1
+
+[33mcommit 8942e4149cf8795afa2fd4e0a3b8416230ced2e8[m
+Merge: c2af8ff 8320bdb
+Author: Renan Sies <renansies@gmail.com>
+Date:   Tue Oct 31 13:48:37 2017 -0200
+
+    Merge branch 'release/0.0.1'
+
+[33mcommit 8320bdbd7da102f7ad548a17d67e8751e37c201c[m
+Author: Renan Sies <renansies@gmail.com>
+Date:   Tue Oct 31 13:47:28 2017 -0200
+
+    adicionando release.txt
+
+[33mcommit bcecf6def5ad7c6f0a823aa8b0083e2ca1f0b621[m
+Author: Renan Sies <renansies@gmail.com>
+Date:   Mon Oct 30 16:47:36 2017 -0200
+
+    Iniciando feature 2
+
+[33mcommit c2af8ff94aef4eaac9b769bb00dc188303876025[m
+Author: Renan Sies <renansies@gmail.com>
+Date:   Mon Oct 30 16:40:43 2017 -0200
+
+    Initial commit
